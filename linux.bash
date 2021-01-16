@@ -1,0 +1,1 @@
+sudo ln -sv /snap/dotnet-sdk/current/dotnet /usr/local/bin/dotnet
